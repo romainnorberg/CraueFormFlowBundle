@@ -25,21 +25,17 @@ jobs:
       matrix:
         include:
           -
-            php: '7.3'
-            dependencies: lowest
-            symfony-deprecations: max[indirect]=5
-          -
             php: '8.4'
             dependencies: highest
           -
             php: '7.4'
-            symfony: '5.4.*'
+            symfony: '6.4.*'
           -
             php: '8.0'
-            symfony: '5.4.*'
+            symfony: '6.4.*'
           -
             php: '8.1'
-            symfony: '5.4.*'
+            symfony: '6.4.*'
           -
             php: '8.2'
             symfony: '6.4.*'
