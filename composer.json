@@ -22,17 +22,17 @@
 	"homepage": "https://github.com/craue/CraueFormFlowBundle",
 	"require": {
 		"php": "^7.3 || ^8",
-		"symfony/config": "^5.4 || ^6.4 || ^7.2",
-		"symfony/dependency-injection": "^5.4 || ^6.4 || ^7.2",
-		"symfony/event-dispatcher": "^5.4 || ^6.4 || ^7.2",
-		"symfony/form": "^5.4 || ^6.4 || ^7.2",
-		"symfony/http-foundation": "^5.4 || ^6.4 || ^7.2",
-		"symfony/http-kernel": "^5.4 || ^6.4 || ^7.2",
-		"symfony/options-resolver": "^5.4 || ^6.4 || ^7.2",
-		"symfony/security-core": "^5.4 || ^6.4 || ^7.2",
-		"symfony/translation": "^5.4 || ^6.4 || ^7.2",
-		"symfony/validator": "^5.4 || ^6.4 || ^7.2",
-		"symfony/yaml": "^5.4 || ^6.4 || ^7.2"
+		"symfony/config": "^5.4 || ^6.4 || ^7.2 || ^8.0",
+		"symfony/dependency-injection": "^5.4 || ^6.4 || ^7.2 || ^8.0",
+		"symfony/event-dispatcher": "^5.4 || ^6.4 || ^7.2 || ^8.0",
+		"symfony/form": "^5.4 || ^6.4 || ^7.2 || ^8.0",
+		"symfony/http-foundation": "^5.4 || ^6.4 || ^7.2 || ^8.0",
+		"symfony/http-kernel": "^5.4 || ^6.4 || ^7.2 || ^8.0",
+		"symfony/options-resolver": "^5.4 || ^6.4 || ^7.2 || ^8.0",
+		"symfony/security-core": "^5.4 || ^6.4 || ^7.2 || ^8.0",
+		"symfony/translation": "^5.4 || ^6.4 || ^7.2 || ^8.0",
+		"symfony/validator": "^5.4 || ^6.4 || ^7.2 || ^8.0",
+		"symfony/yaml": "^5.4 || ^6.4 || ^7.2 || ^8.0"
 	},
 	"require-dev": {
 		"craue/translations-tests": "^1.1",
@@ -46,13 +46,13 @@
 		"phpstan/phpstan-strict-rules": "^1.1",
 		"phpstan/phpstan-symfony": "^1.1",
 		"phpunit/phpunit": "^9.5",
-		"symfony/browser-kit": "^5.4 || ^6.4 || ^7.2",
-		"symfony/css-selector": "^5.4 || ^6.4 || ^7.2",
-		"symfony/framework-bundle": "^5.4 || ^6.4 || ^7.2",
-		"symfony/mime": "^5.4 || ^6.4 || ^7.2",
+		"symfony/browser-kit": "^5.4 || ^6.4 || ^7.2 || ^8.0",
+		"symfony/css-selector": "^5.4 || ^6.4 || ^7.2 || ^8.0",
+		"symfony/framework-bundle": "^5.4 || ^6.4 || ^7.2 || ^8.0",
+		"symfony/mime": "^5.4 || ^6.4 || ^7.2 || ^8.0",
 		"symfony/phpunit-bridge": "^7.3",
-		"symfony/security-bundle": "^5.4 || ^6.4 || ^7.2",
-		"symfony/twig-bundle": "^5.4 || ^6.4 || ^7.2"
+		"symfony/security-bundle": "^5.4 || ^6.4 || ^7.2 || ^8.0",
+		"symfony/twig-bundle": "^5.4 || ^6.4 || ^7.2 || ^8.0"
 	},
 	"conflict": {
 		"doctrine/dbal": "<2.10"

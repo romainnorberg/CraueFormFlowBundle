@@ -54,6 +54,9 @@ jobs:
             symfony: '7.4.*'
             stability: dev
             allow-failure: true
+          -
+            php: '8.4'
+            symfony: '8.0.*'
 
     services:
       mysql:
